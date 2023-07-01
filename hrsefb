@@ -1,0 +1,7 @@
+echo "# 1dsafgv" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lag1jamieduran/1dsafgv.git
+git push -u origin main
